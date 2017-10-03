@@ -1,0 +1,16 @@
+div{
+    padding-left: 30px;
+}
+p{
+    padding-left: 10px;
+    color: white;
+}
+#colRed{
+    background-color: #E35E5E;
+    border-left: 5px solid red;
+}
+
+#colBlue{
+    background-color: #3EC8C0;
+    border-left: 5px solid #1F7773;
+}
